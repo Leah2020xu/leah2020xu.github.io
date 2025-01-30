@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "dont know"
 format: html
@@ -10,3 +11,17 @@ hello, let me try some stuff.
 this is an image:
 ![](screenshot.png)
 
+=======
+---
+title: "dont know"
+format: html
+---
+#test
+
+
+hello, let me try some stuff.
+
+this is an image:
+![](screenshot.png)
+
+>>>>>>> 1a1de70 (gg)

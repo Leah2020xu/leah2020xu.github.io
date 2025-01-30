@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "test2"
 format: html
@@ -8,3 +9,15 @@ hello, let me try some stuff.
 
 this is a screenshot:
 ![](screenshot.png)
+=======
+---
+title: "test2"
+format: html
+editor: source
+---
+
+hello, let me try some stuff.
+
+this is a screenshot:
+![](screenshot.png)
+>>>>>>> 1a1de70 (gg)
