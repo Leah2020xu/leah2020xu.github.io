@@ -7,7 +7,7 @@ editor: source
 
 hello, let me try some stuff.
 
-this is a screenshot:
+this is a screenshot: look!
 ![](screenshot.png)
 =======
 ---
